@@ -1,0 +1,6 @@
+RESUMEN ANÁLISIS CLIMÁTICO
+==========================
+Total de registros analizados : 323
+Temperatura promedio          : 0.01
+Temperatura máxima            : 1.28
+Temperatura mínima            : -0.60
